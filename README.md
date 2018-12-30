@@ -1,0 +1,1 @@
+# atlas-mmo-resources-map
